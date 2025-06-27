@@ -45,6 +45,11 @@ types/
 - Package Manager - pnpm 
 - Expo CLI
 
+### If you don't have `pnpm` 
+
+    ```bash
+    npm install -g pnpm
+    ```
 
 ### Installation
 
@@ -113,7 +118,7 @@ EXPO_PUBLIC_API_KEY=your_api_key_here
 - `lint` - Run Expo lint checks
 
 
-## 🚧 Known Issues & Limitations
+## Known Issues & Limitations
 
 1. **Calculator Functionality**: Only SIP Calculator is fully implemented
 2. **Language Support**: Hindi translations are incomplete
