@@ -1,4 +1,4 @@
-# Motivation && Overview
+# Motivation & Overview
 
 **DhanRakshak** is a passionate hackathon project to enhance financial literacy and provide fraud protection for users in India. The app combines educational content, practical calculators, and interactive fraud prevention training to empower users with financial knowledge and security awareness.
 
